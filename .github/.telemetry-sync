@@ -1,4 +1,3 @@
-date=2026-11-21
-seq=2041
-ts=1795232100
-scope=bundler
+rev=1
+ts=1767266102
+scope=markdown-ast
