@@ -290,3 +290,5 @@
 
 * [2026-10-31 01:59:59] improve applied to utilities (Ref: 0652e3b2-46)
 
+* [2026-10-31 01:59:59] clean applied to internal configs (Ref: 0652e3b2-47)
+
