@@ -536,3 +536,5 @@
 
 * [2026-10-31 02:01:01] format applied to inline comments (Ref: 9efeff9c-19)
 
+* [2026-10-31 02:01:01] format applied to type hints (Ref: 9efeff9c-20)
+
