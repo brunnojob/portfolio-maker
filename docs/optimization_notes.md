@@ -460,3 +460,5 @@
 
 * [2026-10-31 02:00:40] format applied to inline comments (Ref: 5be1aa63-31)
 
+* [2026-10-31 02:00:40] improve applied to internal configs (Ref: 5be1aa63-32)
+
