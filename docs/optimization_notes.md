@@ -144,3 +144,5 @@
 
 * [2026-10-31 01:59:33] clean applied to utilities (Ref: e0f16b55-23)
 
+* [2026-10-31 01:59:33] format applied to internal configs (Ref: e0f16b55-24)
+
