@@ -572,3 +572,5 @@
 
 * [2026-10-31 02:01:04] improve applied to module structure (Ref: 9efeff9c-37)
 
+* [2026-10-31 02:01:04] clean applied to module structure (Ref: 9efeff9c-38)
+
