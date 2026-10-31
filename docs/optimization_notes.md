@@ -182,3 +182,5 @@
 
 * [2026-10-31 01:59:36] clean applied to type hints (Ref: e0f16b55-42)
 
+* [2026-10-31 01:59:36] format applied to internal configs (Ref: e0f16b55-43)
+
