@@ -122,3 +122,5 @@
 
 * [2026-10-31 01:59:30] improve applied to type hints (Ref: e0f16b55-12)
 
+* [2026-10-31 01:59:31] clean applied to module structure (Ref: e0f16b55-13)
+
