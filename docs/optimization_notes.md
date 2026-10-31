@@ -240,3 +240,5 @@
 
 * [2026-10-31 01:59:55] clean applied to type hints (Ref: 0652e3b2-21)
 
+* [2026-10-31 01:59:55] clean applied to internal configs (Ref: 0652e3b2-22)
+
