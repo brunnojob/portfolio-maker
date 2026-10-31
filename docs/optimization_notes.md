@@ -306,3 +306,5 @@
 
 * [2026-10-31 02:00:18] format applied to type hints (Ref: a55d79df-4)
 
+* [2026-10-31 02:00:18] clean applied to module structure (Ref: a55d79df-5)
+
