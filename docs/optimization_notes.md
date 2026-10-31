@@ -390,3 +390,5 @@
 
 * [2026-10-31 02:00:23] update applied to inline comments (Ref: a55d79df-46)
 
+* [2026-10-31 02:00:23] improve applied to internal configs (Ref: a55d79df-47)
+
