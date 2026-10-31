@@ -500,3 +500,5 @@
 
 * [2026-10-31 02:00:56] format applied to inline comments (Ref: 9efeff9c-1)
 
+* [2026-10-31 02:00:56] format applied to module structure (Ref: 9efeff9c-2)
+
