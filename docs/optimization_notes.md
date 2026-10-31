@@ -304,3 +304,5 @@
 
 * [2026-10-31 02:00:18] optimize applied to utilities (Ref: a55d79df-3)
 
+* [2026-10-31 02:00:18] format applied to type hints (Ref: a55d79df-4)
+
