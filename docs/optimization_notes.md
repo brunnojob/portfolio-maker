@@ -172,3 +172,5 @@
 
 * [2026-10-31 01:59:35] improve applied to utilities (Ref: e0f16b55-37)
 
+* [2026-10-31 01:59:35] improve applied to internal configs (Ref: e0f16b55-38)
+
