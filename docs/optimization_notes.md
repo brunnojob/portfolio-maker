@@ -480,3 +480,5 @@
 
 * [2026-10-31 02:00:42] optimize applied to type hints (Ref: 5be1aa63-41)
 
+* [2026-10-31 02:00:42] improve applied to inline comments (Ref: 5be1aa63-42)
+
