@@ -2,3 +2,5 @@
 
 * [2026-10-31 01:59:03] update applied to type hints (Ref: 7f2ad335-2)
 
+* [2026-10-31 01:59:03] format applied to utilities (Ref: 7f2ad335-3)
+
