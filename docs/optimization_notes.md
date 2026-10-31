@@ -504,3 +504,5 @@
 
 * [2026-10-31 02:00:56] improve applied to internal configs (Ref: 9efeff9c-3)
 
+* [2026-10-31 02:00:57] optimize applied to module structure (Ref: 9efeff9c-4)
+
