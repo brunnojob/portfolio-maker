@@ -1,4 +1,4 @@
 date=2026-11-24
-seq=320
-ts=1795495272
-scope=template-engine
+seq=321
+ts=1795495273
+scope=markdown-ast
